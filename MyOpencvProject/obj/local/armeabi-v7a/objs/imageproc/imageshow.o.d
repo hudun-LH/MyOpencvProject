@@ -1,0 +1,124 @@
+obj/local/armeabi-v7a/objs/imageproc/imageshow.o: jni/imageshow.cpp \
+ E:/Cygwin/home/android-ndk-r9/platforms/android-8/arch-arm/usr/include/android/log.h \
+ E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/string \
+ E:/Cygwin/home/android-ndk-r9/platforms/android-8/arch-arm/usr/include/stdlib.h \
+ E:/Cygwin/home/android-ndk-r9/platforms/android-8/arch-arm/usr/include/alloca.h \
+ E:/Cygwin/home/android-ndk-r9/platforms/android-8/arch-arm/usr/include/strings.h \
+ E:/Cygwin/home/android-ndk-r9/platforms/android-8/arch-arm/usr/include/memory.h \
+ E:/Cygwin/home/android-ndk-r9/platforms/android-8/arch-arm/usr/include/jni.h \
+ E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/iostream \
+ E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/fstream \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/core.hpp \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/types_c.h \
+ E:/Cygwin/home/android-ndk-r9/platforms/android-8/arch-arm/usr/include/assert.h \
+ E:/Cygwin/home/android-ndk-r9/platforms/android-8/arch-arm/usr/include/math.h \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/version.hpp \
+ E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/algorithm \
+ E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/cmath \
+ E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/cstddef \
+ E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/complex \
+ E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/map \
+ E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/vector \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/operations.hpp \
+ E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/limits \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/mat.hpp \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/highgui/highgui.hpp \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/highgui/highgui_c.h \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/core_c.h \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/imgproc/imgproc.hpp \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/imgproc/types_c.h \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/video/tracking.hpp \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/video/video.hpp \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/video/background_segm.hpp \
+ E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/list \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/imgproc/imgproc_c.h \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/objdetect/objdetect.hpp \
+ E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/deque \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/features2d/features2d.hpp \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/flann/miniflann.hpp \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/flann/defines.h \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/flann/config.h \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/calib3d/calib3d.hpp \
+ D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/ml/ml.hpp
+
+E:/Cygwin/home/android-ndk-r9/platforms/android-8/arch-arm/usr/include/android/log.h:
+
+E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/string:
+
+E:/Cygwin/home/android-ndk-r9/platforms/android-8/arch-arm/usr/include/stdlib.h:
+
+E:/Cygwin/home/android-ndk-r9/platforms/android-8/arch-arm/usr/include/alloca.h:
+
+E:/Cygwin/home/android-ndk-r9/platforms/android-8/arch-arm/usr/include/strings.h:
+
+E:/Cygwin/home/android-ndk-r9/platforms/android-8/arch-arm/usr/include/memory.h:
+
+E:/Cygwin/home/android-ndk-r9/platforms/android-8/arch-arm/usr/include/jni.h:
+
+E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/iostream:
+
+E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/fstream:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/core.hpp:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/types_c.h:
+
+E:/Cygwin/home/android-ndk-r9/platforms/android-8/arch-arm/usr/include/assert.h:
+
+E:/Cygwin/home/android-ndk-r9/platforms/android-8/arch-arm/usr/include/math.h:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/version.hpp:
+
+E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/algorithm:
+
+E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/cmath:
+
+E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/cstddef:
+
+E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/complex:
+
+E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/map:
+
+E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/vector:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/operations.hpp:
+
+E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/limits:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/mat.hpp:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/highgui/highgui.hpp:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/highgui/highgui_c.h:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/core/core_c.h:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/imgproc/imgproc.hpp:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/imgproc/types_c.h:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/video/tracking.hpp:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/video/video.hpp:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/video/background_segm.hpp:
+
+E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/list:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/imgproc/imgproc_c.h:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/objdetect/objdetect.hpp:
+
+E:/Cygwin/home/android-ndk-r9/sources/cxx-stl/gnu-libstdc++/4.6/include/deque:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/features2d/features2d.hpp:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/flann/miniflann.hpp:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/flann/defines.h:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/flann/config.h:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/calib3d/calib3d.hpp:
+
+D:/OpenCV-2.4.9-android-sdk/sdk/native/jni/include/opencv2/ml/ml.hpp:
